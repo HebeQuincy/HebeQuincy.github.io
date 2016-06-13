@@ -1,14 +1,14 @@
 # Site settings
-title: 生而知之吱
+title: 生而咩咩咩
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "ZAR|代码人生"  
+description: "HEQI|产品人生"  
 baseurl: ""
-url: "http://zarxlly"  
+url: "http://hebequincy"  
 
 # About/contact
 owner: 
-  name: " zarxlly"
+  name: " hebequincy"
   email: zzzhengaoran@gmail.com
   bio: "nothing"
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  zarxlly
+douban_username:  
 twitter_username: 
-github_username: zarxlly
+github_username: hebequincy
 facebook_username: 
-weibo_username: 2247005515 
-zhihu_username: gregory-peck
+weibo_username:  
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "zarxlly"
+      author: "hebequincy"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : zarxlly
+    short_name : hebequincy
   disqus :
-      short_name : zarxlly
+      short_name : hebequincy
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 

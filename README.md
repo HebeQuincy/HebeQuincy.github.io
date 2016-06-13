@@ -4,17 +4,16 @@
 
 ##关于我
 
-我是郑傲然，博客：[www.zarxlly.com](www.zarxlly.com)
+我是何鲜咩，博客：[http://hebequincy.github.io/](http://hebequincy.github.io/)
 
-Android开发者，并且打算在这一行深入的研究。
+产品经理，并且打算在这一行深入的研究。
 
-现在正在**误人子弟**。。
+现在正在**走上人生巅峰**。。
 
 ##链接
 
 
-- [新浪微博](http://weibo.com/u/2247005515)
-- [GitHub](https://github.com/zarxlly) 
+- [GitHub](https://github.com/hebequincy) 
 - 敬请期待更多。。
 
 

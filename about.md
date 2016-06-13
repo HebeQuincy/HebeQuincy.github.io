@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xnz65.com1.z0.glb.clouddn.com/15-11-2/71895443.jpg" align="center"></p>
 </center>
 
-我是郑傲然，Android开发者，曾打了两年ACM的酱油，智商备受碾压，现在一心奔向开发。
+我是何鲜咩，产品经理，项目经理。
 
-现在研习 **Android开发** 。
+现在研习 **拯救世界** 。
 
 
 
@@ -25,17 +25,14 @@ header-img: "img/green.jpg"
 
 ###我的朋友们
 
--  [庄鸣真](http://frankorz.com/)
+-  [郑傲然](http://www.zarxlly.com/)
 -  [AiorosXu-徐永强 ](https://github.com/AiorosXu)
 
 
 ###联系
 
-- [博客：www.zarxlly.com](www.zarxlly.com)
+- [博客：http://hebequincy.github.io/](http://hebequincy.github.io/)
 
-- [微博@赫本与派克](http://weibo.com/2247005515)
-
-- [知乎@Gregory Peck](http://www.zhihu.com/people/gregory-peck)
 
 - 公众号：暂未公开
 
